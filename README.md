@@ -1,0 +1,1 @@
+This project involves data analysis and machine learning using the Pima Indians Diabetes dataset. The dataset is used to predict whether a patient has diabetes based on diagnostic measurements. This analysis will include data cleaning, exploratory data analysis (EDA), feature engineering, and building a predictive model.
